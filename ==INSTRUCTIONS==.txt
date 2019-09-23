@@ -1,0 +1,33 @@
+==================================================================
+This application automatically checks for new movie uploads on YTS
+==================================================================
+
+
+- Run "Movies.jar" once and it will automatically run in the background until you restart your pc.
+- Add the movie name AND the year to the "watchlist" text file.
+- You can: 
+	- access all settings by right-clicking the tray icon
+	- set the checking site (currently available only for YTS) [More sites will be added in the future]
+	- change the update interval (minutes) [default is 60]
+- Enjoy!
+
+
+
+			
+		***IMPORTANT***
+- Type in the full name of the movie.
+- Type in the year of the movie within parentheses.
+- Do NOT use any other symbols.
+- You can use either uppercase or lowercase.
+- Remove expired movies from the watchlist.
+- Restart the application after changing the update interval.
+
+
+Eg: spider man far from home (2019)   ✔
+    Spider Man Far From Home (2019)   ✔	
+
+    spider man far from home          ✖
+    spider man far from home 2019     ✖
+    spider-man far from home (2019)   ✖
+    spider man: far from home (2019)  ✖
+    spider man (far from home) (2019) ✖
